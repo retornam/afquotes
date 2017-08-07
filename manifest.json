@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+
+  "name": "African Quotes",
+  "description": "Replaces the new page tab with a random African quote..",
+  "version": "0.1",
+
+  "chrome_url_overrides" : {
+    "newtab": "home.html"
+  }
+}
